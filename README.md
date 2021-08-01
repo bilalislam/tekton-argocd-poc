@@ -10,4 +10,6 @@ The doc associated to this repo is located in my personal blog [KUBERNETES - CI/
 2. https://enterprisecoding.com/tekton-pipelines-ile-surekli-entegrasyon-akisi/
 3. https://github.com/tektoncd/catalog
 4. https://hub.tekton.dev/
-5. https://sdk.operatorframework.io/
+5. https://sdk.operatorframework.io/ 
+
+Example for 5. matter : argo-cd - GitOps continuous delivery tool for Kubernetes. Argo CD manages components listed above it the Kubernetes cluster and encapsulates both day one and day two operations.
